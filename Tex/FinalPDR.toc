@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Client Needs}{3}{section.2}
+\contentsline {section}{\numberline {3}Gantt Chart}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Summary}{4}{subsection.3.1}
+\contentsline {section}{\numberline {4}Product Function}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Process Description and Function Model}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Sub-Functions}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Refined Structure}{6}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Function Decomposition Validation}{6}{subsection.4.4}
+\contentsline {section}{\numberline {5}Competitive Benchmarking}{7}{section.5}
+\contentsline {section}{\numberline {6}Competitive Improvements}{7}{section.6}
+\contentsline {section}{\numberline {7}Engineering Specifications}{9}{section.7}
+\contentsline {section}{\numberline {8}House of Quality}{9}{section.8}
+\contentsline {subsection}{\numberline {8.1}Summary}{10}{subsection.8.1}
+\contentsline {section}{\numberline {9}Concept Generation}{10}{section.9}
+\contentsline {subsection}{\numberline {9.1}Concept 1}{10}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Concept 2}{11}{subsection.9.2}
+\contentsline {section}{\numberline {10}Concept Selection}{12}{section.10}
+\contentsline {subsection}{\numberline {10.1}Refined Decision Matrix}{12}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Technical Summary}{12}{subsection.10.2}
+\contentsline {section}{\numberline {11}Moving Forward}{12}{section.11}
